@@ -1,2 +1,11 @@
-# Automata-Theory
-Lecture Notes for SNU Automata Theory
+## 서울대학교 컴퓨터공학부 "오토마타 이론" 강의 교재
+
+저자: 박근수
+
+내용:
+1. 서론
+2. 정규 언어
+3. 문맥무관 언어
+4. 튜링기계
+5. 계산불가
+6. 계산복잡도
